@@ -26,7 +26,7 @@ Get hash from file path. (Return promise)
 
 options:
 
-```json
+```js
 {
     resizeBeforeHash: [64, 64] // resize image befaore hashing [64, 64] by default
 }
