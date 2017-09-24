@@ -4,13 +4,13 @@ Lib for get unique hash from image for comparison. Using simple algorithm averag
 
 ## Install
 
-```
+```bash
 npm install image-phash
 ```
 
 ## Usage example
 
-```
+```js
 const imageHash = require('image-phash');
 
 let hash1 = await imageHash.getHashFile('1.jpg');
@@ -26,7 +26,7 @@ Get hash from file path. (Return promise)
 
 options:
 
-```
+```json
 {
     resizeBeforeHash: [64, 64] // resize image befaore hashing [64, 64] by default
 }
