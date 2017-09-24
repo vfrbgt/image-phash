@@ -1,0 +1,12 @@
+{
+  "boss":      true,
+  "node":      true,
+  "smarttabs": true,
+  "undef":     true,
+  "unused":    true,
+  "lastsemic": true,
+  "newcap":    false,
+  "maxlen":    120,
+  "indent":    4,
+  "strict": true
+}

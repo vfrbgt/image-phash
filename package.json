@@ -1,0 +1,22 @@
+{
+  "name": "image-phash",
+  "version": "1.0.0",
+  "description": "Get unique hash of image for comparison",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js --timeout 60000"
+  },
+  "keywords": [
+    "image",
+    "hash",
+    "phash"
+  ],
+  "author": "Bogdan Lipovtsev",
+  "dependencies": {
+    "sharp": "^0.18.3"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}
