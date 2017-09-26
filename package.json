@@ -1,6 +1,6 @@
 {
   "name": "image-phash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get unique hash of image for comparison",
   "main": "index.js",
   "scripts": {

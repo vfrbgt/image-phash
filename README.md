@@ -17,7 +17,6 @@ let hash1 = await imageHash.getHashFile('1.jpg');
 let hash2 = await imageHash.getHashFile('2.jpg');
 
 console.log(ImageHash.hammingDistance(hash1, hash2));
-console.log(ImageHash.hammingDistance(hash1, hash3));
 ```
 
 ### getHashFile(filePath, [options])
