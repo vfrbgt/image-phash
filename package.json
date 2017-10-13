@@ -13,7 +13,7 @@
   ],
   "author": "Bogdan Lipovtsev",
   "dependencies": {
-    "sharp": "^0.18.3"
+    "sharp": "^0.18.4"
   },
   "devDependencies": {
     "mocha": "*",
